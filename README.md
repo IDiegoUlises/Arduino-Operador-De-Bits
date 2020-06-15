@@ -6,3 +6,5 @@
 * ~	Operador Negación Bits (NOT)
 * << Operador desplazamiento izquierda
 * >> Operador desplazamiento de derecha
+
+### Operdadores de desplazamiento de bits¿? o realizar una operacion binaria?¿
